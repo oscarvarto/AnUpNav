@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnUpNav</string>
+    <string name="start_B_label">Start B</string>
+    <string name="money_amount_label">Amount</string>
+</resources>

@@ -1,5 +1,6 @@
 *.class
 *.log
+*~
 
 # sbt specific
 dist/*
@@ -9,5 +10,12 @@ src_managed/
 project/boot/
 project/plugins/project/
 
-# Scala-IDE specific
-.scala_dependencies
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Mac
+.DS_Store
